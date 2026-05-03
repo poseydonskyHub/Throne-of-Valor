@@ -20,6 +20,10 @@ Trone of Valor is a small console game written in C++.
 - `headers/unit.hpp` - main unit class
 - `levels/*.txt` - level files
 
+## Appearance
+
+![Screenshot](https://github.com/poseydonskyHub/Throne-of-Valor/blob/main/appearance.png)
+
 ## Build With CMake
 
 ```bash
